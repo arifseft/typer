@@ -34,4 +34,4 @@ Ketika ukuran window dirubah, susunan huruf yang 'terbentur' batas window menjad
 Implementasikan sistem score.
 Implementasikan hukuman berupa pengurangan nilai bila salah ketik.
 
-> See [source code]https://github.com/arifseft/typer/blob/master/typer.js)
+> See [source code](https://github.com/arifseft/typer/blob/master/typer.js)
